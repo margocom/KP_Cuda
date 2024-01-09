@@ -1,0 +1,4 @@
+LIBRARY
+EXPORTS
+calculate @1 ;calculate
+calculate=_calculate
